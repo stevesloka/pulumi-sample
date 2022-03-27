@@ -1,3 +1,3 @@
-name: go-sample
+name: hackathon-sample
 runtime: go
 description: A minimal Go Pulumi program
