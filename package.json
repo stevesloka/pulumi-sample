@@ -1,0 +1,23 @@
+{
+  "name": "pulumi-sample",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/stevesloka/pulumi-sample.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/stevesloka/pulumi-sample/issues"
+  },
+  "homepage": "https://github.com/stevesloka/pulumi-sample#readme",
+  "dependencies": {
+    "@pulumi/awsx": "^0.40.0",
+    "@pulumi/pulumi": "^3.30.0"
+  }
+}
